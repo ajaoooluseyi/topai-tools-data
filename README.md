@@ -1,6 +1,6 @@
 # topai-tools-data
 
-This is a Python Web scraping code to get data on AI Tools from a toolsai url and store into a excel(.xslx) file. 
+This is a Python Selenium Web scraping code to get data on AI Tools from a toolsai url and store into a excel(.xslx) file. 
 
 
 On the terminal execute the below command to create the projects' working directory and move into that directory.
